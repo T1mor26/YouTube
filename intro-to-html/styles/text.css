@@ -1,0 +1,44 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+}
+
+
+.video-title{
+  font-weight: bold;
+  font-size: 18x;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
+.video-stats{
+  Font-size: 14px;
+  color: rgb(97, 97, 97);
+  margin-bottom: 20px;
+  
+}
+.check{
+  Font-size: 14px;
+  color: rgb(97, 97, 97);
+}
+.chyn{
+  width: 100px;
+  Font-size: 14px;
+  color: rgb(97, 97, 97);
+  margin-bottom: 40px;
+}
+.apple{
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: crimson;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.gg:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
